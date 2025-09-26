@@ -1,0 +1,16 @@
+{
+  "app_name": "UTBK SNBT",
+  "package_name": "com.rovihan.utbksnbt",
+  "latest_version": "1.2.0",
+  "update_type": "force",
+  "min_required_version": "1.1.0",
+  "message": "Versi baru tersedia dengan fitur dan perbaikan penting. Silakan update untuk terus menggunakan aplikasi.",
+  "release_notes": [
+    "Perbaikan bug kritikal",
+    "Penambahan fitur simulasi baru",
+    "Peningkatan performa aplikasi"
+  ],
+  "release_date": "2024-01-15",
+  "play_store_url": "https://play.google.com/store/apps/details?id=com.rovihan.utbksnbt",
+  "apk_download_url": ""
+}
